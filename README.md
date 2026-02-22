@@ -12,7 +12,6 @@ linux-char-driver/
 |   `-- char_driver.h
 +-- user/
 |   `-- test_app.c
-+-- AI_GUIDE.md
 `-- README.md
 ```
 
